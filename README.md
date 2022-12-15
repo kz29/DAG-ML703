@@ -1,5 +1,5 @@
 # DAG-ML703
-
+In this work we try to understand the importance of thresholding and DAG penalty presented by previous studies. Our goal is to make GOLEM’s optimization problem faster.
 ## Requirements
 numpy
 
