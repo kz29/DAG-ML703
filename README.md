@@ -2,9 +2,13 @@
 
 ## Requirements
 numpy
+
 networkx
+
 pytz
+
 matplotlib
+
 torch
 
 To install requirements:
